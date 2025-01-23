@@ -3,6 +3,7 @@ AWS 자격증 모임 - 이 모임은 AWS 자격증 취득을 준비하시는 분
 
 # 2025-1-16 (목)
 [#SAA 자격증 준비](https://www.meetup.com/ko-KR/awskrug/events/305373693)
+(https://github.com/awskrug/cert-group/blob/main/photo/2025-1-16/KakaoTalk_20250116_221457185.jpg?raw=true)
 
 # 2024-12-18 (수)
 [#AIF 자격증 준비](https://www.meetup.com/ko-KR/awskrug/events/304537535)
