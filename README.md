@@ -1,6 +1,12 @@
 # cert-group
 AWS 자격증 모임 - 이 모임은 AWS 자격증 취득을 준비하시는 분들의 정보교환과 교류를 위해 만들어졌습니다.
 
+# 2025-1-16 (목)
+[#SAA 자격증 준비](https://www.meetup.com/ko-KR/awskrug/events/305373693)
+
+# 2024-12-18 (수)
+[#AIF 자격증 준비](https://www.meetup.com/ko-KR/awskrug/events/304537535)
+
 # 2024-10-31 (목)
 [#DEA 자격증 준비](https://meetu.ps/e/NyqLj/M2LgQ/i)
 
