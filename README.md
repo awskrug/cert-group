@@ -20,6 +20,8 @@ AWS 자격증 모임 - 이 모임은 AWS 자격증 취득을 준비하시는 분
 
 ## 2024-05-22 (수)
 [스킬빌더를 이용한 AWS학습 및 자격증 취득 준비 밋업 링크](https://www.meetup.com/ko-KR/awskrug/events/300898964/?eventOrigin=group_calendar)
+![photo](https://github.com/awskrug/cert-group/blob/main/photo/2024-5-22/IMG_7165.jpg?raw=true)
+![photo2](https://github.com/awskrug/cert-group/blob/main/photo/2024-5-22/IMG_7175.jpg?raw=true)
 
 ## 2024-03-26 (화)
 [#스터디 회고 #스터디 시작 밋업 링크](https://www.meetup.com/ko-KR/awskrug/events/299053066/?eventOrigin=group_calendar)
