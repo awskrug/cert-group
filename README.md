@@ -9,6 +9,7 @@ AWS 자격증 모임 - 이 모임은 AWS 자격증 취득을 준비하시는 분
 
 # 2024-12-18 (수)
 [#AIF 자격증 준비](https://www.meetup.com/ko-KR/awskrug/events/304537535)
+![photo1](https://github.com/awskrug/cert-group/blob/main/photo/2024-12-18/KakaoTalk_20250123_172803865_01.jpg?raw=true)
 
 # 2024-10-31 (목)
 [#DEA 자격증 준비](https://meetu.ps/e/NyqLj/M2LgQ/i)
