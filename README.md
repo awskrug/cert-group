@@ -3,7 +3,7 @@ AWS 자격증 모임 - 이 모임은 AWS 자격증 취득을 준비하시는 분
 [#자격증 안내 링크](https://aws.amazon.com/ko/certification/)
 
 ## 2025-2-20 (목)
-[#SAA 자격증 준비 밋업 링크](https://www.meetup.com/awskrug/events/305582911)
+[#자격증 소모임 2월 밋업 링크](https://www.meetup.com/awskrug/events/305582911)
 
 ## 2025-1-16 (목)
 [#SAA 자격증 준비 밋업 링크](https://www.meetup.com/ko-KR/awskrug/events/305373693)
