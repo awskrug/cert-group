@@ -4,6 +4,9 @@ AWS 자격증 모임 - 이 모임은 AWS 자격증 취득을 준비하시는 분
 
 ## 2025-2-20 (목)
 [#자격증 소모임 2월 밋업 링크](https://www.meetup.com/awskrug/events/305582911)
+![photo](https://github.com/awskrug/cert-group/blob/main/photo/2025-02-20/KakaoTalk_20250224_003813290_01.jpg?raw=true)
+![photo2](https://github.com/awskrug/cert-group/blob/main/photo/2025-02-20/KakaoTalk_20250224_003813290_04.jpg)
+![photo3](https://github.com/awskrug/cert-group/blob/main/photo/2025-02-20/KakaoTalk_20250224_003813290_08.jpg)
 
 ## 2025-1-16 (목)
 [#SAA 자격증 준비 밋업 링크](https://www.meetup.com/ko-KR/awskrug/events/305373693)
@@ -31,6 +34,3 @@ AWS 자격증 모임 - 이 모임은 AWS 자격증 취득을 준비하시는 분
 
 ## 2024-02-07 (화)
 [#AWS Certified Data Engineer - Associate 자격증 스터디 밋업 링크](https://www.meetup.com/ko-KR/awskrug/events/299765408/?eventOrigin=group_calendar)
-![photo](https://github.com/awskrug/cert-group/blob/main/photo/2025-02-20/KakaoTalk_20250224_003813290_01.jpg?raw=true)
-![photo2](https://github.com/awskrug/cert-group/blob/main/photo/2025-02-20/KakaoTalk_20250224_003813290_04.jpg)
-![photo3](https://github.com/awskrug/cert-group/blob/main/photo/2025-02-20/KakaoTalk_20250224_003813290_08.jpg)
